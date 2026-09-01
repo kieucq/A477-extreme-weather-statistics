@@ -1,4 +1,4 @@
-# A477/A577: TRENDS IN EXTREME WEATHER
+## A477/A577: Extreme weather statistics
 
 This course provides students with a scientific understanding of the impacts of climate change on extreme weather events. Throughout the semester, we will review statistical methods and peer-reviewed literature related to extreme weather and attribution.
 
